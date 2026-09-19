@@ -1,0 +1,39 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "chatbot-documentos-client-side-solution",
+    "id": "f3e9964f-eef3-40b5-aca1-03152d904ae5",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "chatbot-documentos description"
+      },
+      "longDescription": {
+        "default": "chatbot-documentos description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "chatbot-documentos Feature",
+        "description": "The feature that activates elements of the chatbot-documentos solution.",
+        "id": "c930919f-e455-4135-87bf-6e96f15556ed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/chatbot-documentos.sppkg"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "chatbot-documentos",
+    "environment": "spo",
+    "packageManager": "npm",
+    "skipFeatureDeployment": false,
+    "isDomainIsolated": false,
+    "useGulp": true,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "ChatbotWebPart",
+    "componentDescription": "Chatbot de documentos via n8n",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.14.0",
+    "sdksVersions": {},
+    "version": "1.23.2",
+    "libraryName": "chatbot-documentos",
+    "libraryId": "f3e9964f-eef3-40b5-aca1-03152d904ae5",
+    "solutionShortDescription": "chatbot-documentos description"
+  }
+}
